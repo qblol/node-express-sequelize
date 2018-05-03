@@ -1,6 +1,7 @@
 # node-express-sequelize
 
 [![Node.js](https://rishabh.io/tech/nodejs/img/nodejs.png)](https://nodejs.org/en/)
+
 To work on this task, you need to install Node.js first. Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.
 
 ## Instructions
