@@ -20,6 +20,7 @@ To work on this task, you need to install Node.js first. Node.js® is a JavaScri
 ![Screenshot](https://storage.googleapis.com/qluster-apidev-images/Screenshot%20from%202018-05-03%2016-18-08.png)
 - Navigate to routes/users, uncomment all commented line.
 - Navigate to controllers/users, write some code for register, login, edit and delete. You can see list API for example.
+- If you done, push to this repo with your name as a branch name.
 
 ### Hints
 
